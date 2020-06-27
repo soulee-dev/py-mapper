@@ -1,0 +1,29 @@
+{
+  "absolute_directory": "skymaps",
+  "data_sets": {
+    "1": {
+      "region": "pohang",
+      "directories": [
+        "201905303C0132037A/images",
+        "201905303C01320039/images"
+      ],
+      "filenames": [
+        "(B040)항공사진_201905303C0132037A_",
+        "(B040)항공사진_201905303C01320039_"
+      ],
+      "extentions": "png"
+    },
+    "2": {
+      "region": "chungju",
+      "directories": [
+        "201804304CN0010015/images",
+        "201804304CN0020014/images"
+      ],
+      "filenames": [
+        "(B040)항공사진_201804304CN0010015_",
+        "(B040)항공사진_201804304CN0020014_"
+      ],
+      "extentions": "png"
+    }
+  }
+}

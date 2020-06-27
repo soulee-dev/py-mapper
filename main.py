@@ -5,7 +5,7 @@ import tensorflow.keras
 import numpy as np
 from cv2 import cv2
 
-lineWidth = 15
+lineWidth = 30
 
 
 # Disable scientific notation for clarity
